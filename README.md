@@ -15,7 +15,7 @@ Control a spaceship, shoot incoming enemies, and survive as long as possible whi
 
 ## 📸 Gameplay Preview
 
-![Gameplay](assets/gameplay.png)
+![Gameplay](assets/Gameplay.png)
 
 ---
 
